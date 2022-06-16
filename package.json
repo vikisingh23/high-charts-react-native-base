@@ -1,0 +1,48 @@
+{
+  "name": "@highcharts/highcharts-react-native-base",
+  "version": "3.1.7",
+  "license": "SEE LICENSE IN <LICENSE>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/highcharts/highcharts-react-native-official.git"
+  },
+  "dependencies": {
+    "metro-config": "^0.60.0",
+    "expo": "44.0.6",
+    "expo-file-system": "14.0.0",
+    "expo-asset": "8.5.0"
+  },
+  "keywords": [
+    "highcharts",
+    "highstock",
+    "highmaps",
+    "react-native"
+  ],
+  "description": "Highcharts react native wrapper",
+  "bugs": {
+    "url": "https://github.com/highcharts/highcharts-react-native"
+  },
+  "contributors": [
+    "Sebastian Bochan <sebastian@blacklabel.pl>",
+    "Daniel Studencki <daniel.studencki@gmail.com>"
+  ],
+  "homepage": "https://github.com/highcharts/highcharts-react-native#readme",
+  "author": "Highcharts",
+  "peerDependencies": {
+    "react": "17.0.2",
+    "react-native": "^0.67.4",
+    "react-native-webview": "^11.17.2",
+    "expo": "44.0.6",
+    "expo-file-system": "14.0.0",
+    "expo-asset": "8.5.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-plugin-react": "^7.12.4",
+    "react": "^17.0.2",
+    "react-addons-test-utils": "^15.6.2",
+    "react-dom": "^17.0.2",
+    "react-test-renderer": "^17.0.2",
+    "react-unit": "^3.0.0"
+  }
+}
